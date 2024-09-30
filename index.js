@@ -45,8 +45,7 @@ function playSound(event) {
                 tom4.play();
                 break;
         default:
-            console.log("Wrong key pressed!!");
-            break;
+            
     }
 }
 
